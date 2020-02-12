@@ -1,0 +1,12 @@
+[submodule "UNO-TPLORA"]
+	path = UNO-TPLORA
+	url = https://github.com/LilyGO/UNO-TPLORA.git
+[submodule "RAK811"]
+	path = RAK811
+	url = https://github.com/RAKWireless/RAK811.git
+[submodule "WisNode-Arduino-Library"]
+	path = WisNode-Arduino-Library
+	url = https://github.com/RAKWireless/WisNode-Arduino-Library.git
+[submodule "RAK811-Arduino"]
+	path = RAK811-Arduino
+	url = https://github.com/PiSupply/RAK811-Arduino.git
